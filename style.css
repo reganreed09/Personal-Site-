@@ -7,7 +7,7 @@
     --cream: #fffcf2;           /* Main background */
     --beige: #ccc5b9;           /* Secondary background */
     --Purple: #403d39;       /* Body text */
-    --charcoal: #252422;        /* Headlines */
+    --Dark Purple: #252422;        /* Headlines */
     --accent: #eb5e28;          /* Accent/CTA */
     
     /* Typography - Use these font families or replace with Le Monde Livre and Acumin Pro if you have them */
@@ -36,7 +36,7 @@ html {
 
 body {
     font-family: var(--font-body);
-    color: var(--dark-gray);
+    color: var(--Purple);
     background-color: var(--cream);
     line-height: 1.7;
     overflow-x: hidden;
@@ -44,7 +44,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-headline);
-    color: var(--charcoal);
+    color: var(--purple);
     line-height: 1.3;
     font-weight: 700;
 }
