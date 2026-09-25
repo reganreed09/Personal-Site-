@@ -236,15 +236,15 @@ a {
 }
 
 .btn-primary {
-    background-color: var(--accent);
+    background-color: var(--Purple);
     color: var(--cream);
-    border-color: var(--accent);
+    border-color: var(--Purple);
 }
 
 .btn-primary:hover {
     background-color: transparent;
-    color: var(--accent);
-    border-color: var(--accent);
+    color: var(--Purple);
+    border-color: var(--Purple);
 }
 
 .btn-secondary {
