@@ -8,7 +8,7 @@
     --beige: #ccc5b9;           /* Secondary background */
     --Purple: #663f7d;       /* Body text */
     --Purple: #663f7d;        /* Headlines */
-    --accent: #eb5e28;          /* Accent/CTA */
+    --accent: #663f7d;          /* Accent/CTA */
     
     /* Typography - Use these font families or replace with Le Monde Livre and Acumin Pro if you have them */
     --font-headline: 'Lora', serif;              /* Fallback for Le Monde Livre */
